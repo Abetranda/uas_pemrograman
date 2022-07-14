@@ -1,4 +1,4 @@
-#Aplikasi Pemesanan Tiket Bus Online (PHP, MySQL, CMS Lokomedia)
+#Aplikasi Pemesanan Tiket TRAVEL Online (PHP, MySQL,JAVASCRIPT,CSS,HTML)
 Login pengguna:
 
 Administrator:
@@ -11,6 +11,6 @@ Customer/member:
     Username: aaa@gmail.com
     Password: aaa
 
-Semoga bermanfaat.
+UAS PEMROGRAMAN WEB (KELOMPOK : ABETRANDA,PRAMOEDYA,ANDIKA)
 
 malescoding.com
